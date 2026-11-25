@@ -1,7 +1,7 @@
 
 // Capstone Project - Part C
-// Student K = 52
-// Box starts at row 52
+// Student K = 56
+// Box starts at row 56
 // Height = 20 rows
 // Width = 16 pixels (one screen word)
 
