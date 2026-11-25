@@ -1,0 +1,21 @@
+========================================
+       HACK ASSEMBLER STATISTICS
+========================================
+
+Student Roll Number: 2501730356
+Personalized K Value: 56
+K mod 3: 2
+Feature: Assembly Statistics Reporting
+
+Source File: Add.asm
+Total Source Lines: 12
+Actual Instructions: 6
+A-Instructions: 3
+C-Instructions: 3
+Labels: 0
+Variables Allocated: 0
+Machine Code Instructions: 6
+
+========================================
+         ASSEMBLY COMPLETED
+========================================
